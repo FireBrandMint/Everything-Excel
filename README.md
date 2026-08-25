@@ -5,6 +5,6 @@
 
 ## Script studies
 
-add1.cls -> Adds any selected fields that are a number by one.
+add1.cls -> Increments every selected cell that is a number by 1.
 
 all_uppercase.cls -> In every selected cell it captalizes the first letter of every word that does not contain numbers or weird characters.
