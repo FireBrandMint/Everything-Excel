@@ -1,0 +1,1 @@
+![Screenshot of Dashboard Data Sharts.xlsx](https://github.com/FireBrandMint/Everything-Excel/blob/9b547529c1256e5e592706a51fba092a77ac6b54/Dashboard-ss.png)
